@@ -27,9 +27,7 @@ The Python 'snap7' library requires the compiled low-level C binary system archi
 Follow these progressive instructions to deploy the MLworkX Workbench across local development nodes or terminal workstations:
 4.1 Environment Initialization
 Isolate environment footprints utilizing a dedicated Python virtual environment framework:
-# Clone project asset directory
-git clone https://github.com/your-organization/mlworkx-workbench.git
-cd mlworkx-workbench
+
 
 # Instantiate virtual runtime context
 python -m venv venv
