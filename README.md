@@ -52,7 +52,7 @@ Isolate the deployment environment using standard virtual environments:
 
 Bash
 # Clone the repository assets
-git clone https://github.com/your-organization/mlworkx-workbench.git
+git clone (https://github.com/Abdulvaris98/MLWorkX_MachineVision.git)
 cd mlworkx-workbench
 
 # Instantiate virtual environment structure
