@@ -1,0 +1,9 @@
+ultralytics
+pypylon
+python-snap7
+mysql-connector-python
+matplotlib
+pillow
+opencv-python
+torch
+torchvision
